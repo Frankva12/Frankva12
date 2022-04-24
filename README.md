@@ -2,11 +2,11 @@
 
 ## About me:
 
-- 💻 I’m an appasionate developer that always want to learn
-- 🌱 I’m currently learning about Android with Kotlin
-- 🎭 I love to participate in team's projects
-- 🥅 2022 Goals: Learn more about Android and Kotlin and improve my soft skills
-- ⚡ Fun fact about me: I love to play soccer and videogames ⚽
+- 💻 I’m an appasionate developer that always want to learn.
+- 🌱 I’m currently learning about Android with Kotlin.
+- 🎭 I love to participate in team's projects.
+- 🥅 2022 Goals: Learn more about Android and Kotlin and improve my soft skills.
+- ⚡ Fun fact about me: I love to play soccer and videogames.
 - 🎨 I’m trying to improve myself everyday and improve my technical skills.
 
   

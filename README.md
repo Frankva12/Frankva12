@@ -9,7 +9,8 @@
 - 🎨 I’m trying to improve myself everyday and improve my soft skills too.
 
   
-  ![Frankva12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=dark&hide=stars,contribs)
+## Github Status:
+  ![Frankva12](https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&layout=compact&theme=dark&hide=stars,contribs)
   
 
 ## Language Tools:

@@ -34,14 +34,14 @@
 ## Connect with me:
 
 <div>
+   <a href="stanleyvasconcelos0@gmail.com"> 
+    <img src="https://img.icons8.com/color/344/gmail-new.png"  title="Gmail" alt="Gmail" width="50" height="50"/>&nbsp;
+  </a>
   <a href="https://www.linkedin.com/in/francisco-vasconcelos-8a5a371a9/"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="Linkein" alt="Linkein" width="50" height="50"/>&nbsp;
   </a>
   <a href="https://twitter.com/Frank_va12"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"  title="Twitter" alt="Twitter" width="50" height="50"/>&nbsp;
-  </a>
-   <a href="stanleyvasconcelos0@gmail.com"> 
-    <img src="https://img.icons8.com/color/344/gmail-new.png"  title="Gmail" alt="Gmail" width="50" height="50"/>&nbsp;
   </a>
 </div>
 

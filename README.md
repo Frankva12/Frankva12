@@ -38,12 +38,9 @@
   <a href="https://twitter.com/Frank_va12"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg"  title="Twitter" alt="Twitter" width="50" height="50"/>&nbsp;
   </a>
-  <a href="https://github.com/Frankva12"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="Github" width="50" height="50"/>&nbsp;
-    </a>
    <a href="stanleyvasconcelos0@gmail.com"> 
     <img src="https://img.icons8.com/color/344/gmail-new.png"  title="Gmail" alt="Gmail" width="50" height="50"/>&nbsp;
-    </a>
+  </a>
 </div>
 
 ### © 2022 GitHub, Inc.

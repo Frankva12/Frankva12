@@ -1,16 +1,17 @@
 # Hi there, I'm Frank👋 
 
-## I'm a apassionate Developer!!
+## About me:
 
-- 🌱 I’m currently learning Android with Kotlin
-- 👯 I’m looking to collaborate with more projects in teams
-- 🥅 2022 Goals: Learn more about Android and Kotlin
-- ⚡ Fun fact: I love to play soccer ⚽
-- 🎨 I’m trying to improve myself everyday and improve my soft skills too.
+- 💻 I’m an appasionate developer that always want to learn
+- 🌱 I’m currently learning about Android with Kotlin
+- 🎭 I love to participate in team's projects
+- 🥅 2022 Goals: Learn more about Android and Kotlin and improve my soft skills
+- ⚡ Fun fact about me: I love to play soccer and videogames ⚽
+- 🎨 I’m trying to improve myself everyday and improve my technical skills.
 
   
-## Github Status:
-  ![Frankva12](https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&layout=compact&theme=dark&hide=stars,contribs)
+## Github Status: 
+  ![Frankva12](https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=highcontrast&hide=stars,contribs)
   
 
 ## Language Tools:

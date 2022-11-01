@@ -3,7 +3,7 @@
 ## About me:
 
 - 💻 I’m an appasionate developer that always want to learn.
-- 🌱 I’m currently learning about React and React Native.
+- 🌱 I’m currently learning about React and React.
 - 🎭 I love to participate in team's projects.
 - 🥅 2022 Goals: Learn more about JavaScript and improve my soft skills.
 - 🎨 I’m trying to improve myself everyday and improve my technical skills.

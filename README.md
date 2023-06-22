@@ -10,8 +10,8 @@
 
   
 ## Github Status: 
-  ![Frankva12](https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=highcontrast&hide=stars,contribs)
-  
+  ![Frankva12](https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=highcontrast&hide=stars)
+  ![Frankva12's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ## Language Tools:
 

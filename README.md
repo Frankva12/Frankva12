@@ -1,4 +1,3 @@
-<p align="center">
   # Hi there, I'm Frank👋 
   
   ## About me:
@@ -8,7 +7,7 @@
   - 🎭 I love to participate in team's projects.
   - 🥅 2022 Goals: Learn more about JavaScript and improve my soft skills.
   - 🎨 I’m trying to improve myself everyday and improve my technical skills.
-</p>
+    
 ## Github Status: 
   ![Frankva12](https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=transparent&hide=contribs,stars)
 

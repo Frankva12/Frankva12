@@ -30,15 +30,21 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
 - <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="20" height="20"/> Node.js
 - <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB
 - <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL
+- <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="20" height="20"/> Jest
 
 ### Mobile Development
 
 - <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="ANDROID" width="20" height="20"/> Android
 - <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="ANDROID-STUDIO" width="20" height="20"/> Android Studio
+- <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="KOTLIN" width="20" height="20"/> Kotlin
 
 ### Version Control
 
 - <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git
+
+## 💼 Work Experience
+
+- Backend Engineer at KnotApi
 
 <!-- Add more technologies and their icons as needed -->
 

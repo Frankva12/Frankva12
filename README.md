@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Frankva12?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/commit-activity/m/Frankva12?style=social" alt="GitHub Commit Activity">
+  <img src="https://img.shields.io/github/commit-activity/y/Frankva12/Frankva12?style=social" alt="GitHub Commit Activity">
 </p>
 
 

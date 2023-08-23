@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/github/commit-activity/m/Frankva12?style=social" alt="GitHub Commit Activity">
 </p>
 
+
 ## 🌱 About Me
 
 I'm a lifelong learner on a journey through the world of Full Stack Web Development. Collaborating on team projects and embracing challenges is my forte. In 2023, my goals are to master JavaScript and hone my soft skills while consistently improving my technical prowess.

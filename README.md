@@ -14,7 +14,7 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=nord&hide=contribs,stars" alt="Frankva12 GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=gotham&hide=contribs,stars" alt="Frankva12 GitHub Stats">
 </div>
 
 ## 🛠️ Tools & Technologies

@@ -46,7 +46,6 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
 
 - Backend Engineer at KnotApi
 
-<!-- Add more technologies and their icons as needed -->
 
 ## 🌐 Let's Connect
 
@@ -63,3 +62,4 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
 </div>
 
 <p align="center">© 2023 GitHub, Inc.</p>
+****

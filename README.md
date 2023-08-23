@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 
-I'm a lifelong learner on a journey through the world of Full Stack Web Development. Collaborating on team projects and embracing challenges is my forte. In 2023, my goals are to master JavaScript and hone my soft skills while consistently improving my technical skills.
+I'm all about diving into Full Stack Web Development and soaking up knowledge. Team projects and challenges are my jam. 2023's mission: nail JavaScript, level up soft skills, and keep boosting those techie talents!
 
 ## 📊 GitHub Stats
 

@@ -48,6 +48,12 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
 
 As a Backend Engineer at KnotApi, I contribute to the development of robust and scalable backend solutions. I collaborate with a dynamic team to create efficient APIs, integrate databases, and ensure the smooth functioning of the application's backend architecture. My role involves continuous learning and problem-solving, contributing to a seamless user experience and the overall success of the projects I'm involved in.
 
+## 🗣️ Languages
+
+- English (Fluent)
+- Spanish (Native)
+
+<!-- Add more technologies and their icons as needed -->
 
 ## 🌐 Let's Connect
 

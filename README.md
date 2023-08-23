@@ -44,7 +44,9 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
 
 ## 💼 Work Experience
 
-- Backend Engineer at KnotApi
+### Backend Engineer at KnotApi
+
+As a Backend Engineer at KnotApi, I contribute to the development of robust and scalable backend solutions. I collaborate with a dynamic team to create efficient APIs, integrate databases, and ensure the smooth functioning of the application's backend architecture. My role involves continuous learning and problem-solving, contributing to a seamless user experience and the overall success of the projects I'm involved in.
 
 
 ## 🌐 Let's Connect
@@ -62,4 +64,3 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
 </div>
 
 <p align="center">© 2023 GitHub, Inc.</p>
-****

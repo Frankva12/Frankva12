@@ -21,17 +21,16 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
 
 Here are some of the tools and technologies I work with:
 
-- Kotlin
-- Android
-- Android Studio
-- HTML5
-- CSS3
-- JavaScript
-- MySQL
-- Node.js
-- MongoDB
-- Git
-<!-- Add more technologies as needed -->
+- <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="KOTLIN" width="20" height="20"/> Kotlin
+- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="ANDROID" width="20" height="20"/> Android
+- <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="ANDROID-STUDIO" width="20" height="20"/> Android Studio
+- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML5
+- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="20" height="20"/> CSS3
+- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
+- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL
+- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="20" height="20"/> Node.js
+- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB
+- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git
 
 ## 🌐 Let's Connect
 

@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/Frankva12?style=social" alt="GitHub Followers">
 </p>
 
-
 ## 🌱 About Me
 
 I'm a lifelong learner on a journey through the world of Full Stack Web Development. Collaborating on team projects and embracing challenges is my forte. In 2023, my goals are to master JavaScript and hone my soft skills while consistently improving my technical prowess.
@@ -31,6 +30,7 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <!-- Add more icons for other technologies you use -->
 </div>
 
 ## 🌐 Let's Connect

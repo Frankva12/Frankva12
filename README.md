@@ -3,7 +3,10 @@
   <p>Passionate Developer | Full Stack Explorer</p>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=calm&hide=contribs,stars" alt="Frankva12 GitHub Stats" align="center">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Frankva12?style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/Frankva12?style=social" alt="GitHub Stars">
+</p>
 
 ## 🌱 About Me
 
@@ -38,4 +41,4 @@ I'm a lifelong learner on a journey through the world of Full Stack Web Developm
   </a>
 </div>
 
-<p align="center">© 2022 GitHub, Inc.</p>
+<p align="center">© 2023 GitHub, Inc.</p>

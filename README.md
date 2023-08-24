@@ -61,9 +61,6 @@ As a Backend Engineer at KnotApi, I contribute to the development of robust and 
   <a href="https://www.linkedin.com/in/francisco-vasconcelos-8a5a371a9/"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  <a href="https://twitter.com/Frank_va12"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/>
-  </a>
 </div>
 
 <p align="center">

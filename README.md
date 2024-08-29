@@ -6,7 +6,7 @@
 
 ## 🌱 About Me
 
-I'm all about diving into Full Stack Web Development and soaking up knowledge. Team projects and challenges are my jam. 2023's mission: nail JavaScript, level up soft skills, and keep boosting those techie talents!
+I'm all about diving into Full Stack Web Development and soaking up knowledge. Team projects and challenges are my jam. 2024's mission: nail JavaScript, level up soft skills, and boost those techie talents!
 
 ## 📊 GitHub Stats
 
@@ -43,7 +43,7 @@ I'm all about diving into Full Stack Web Development and soaking up knowledge. T
 
 ### Backend Engineer at KnotApi
 
-As a Backend Engineer at KnotApi, I contribute to the development of robust and scalable backend solutions. I collaborate with a dynamic team to create efficient APIs, integrate databases, and ensure the smooth functioning of the application's backend architecture. My role involves continuous learning and problem-solving, contributing to a seamless user experience and the overall success of the projects I'm involved in.
+As a Backend Engineer at KnotApi, I contribute to developing robust and scalable backend solutions. I collaborate with a dynamic team to create efficient APIs, integrate databases, and ensure the smooth functioning of the application's backend architecture. My role involves continuous learning and problem-solving, contributing to a seamless user experience and the overall success of the projects I'm involved in.
 
 ## 🗣️ Languages
 

@@ -1,64 +1,18 @@
-<div align="center">
-  <h1>Hey there, I'm Frank! 👋</h1>
-  <p>Passionate Developer | Full Stack Explorer</p>
-</div>
+# 💫 About Me:
+	•	🎤 I’m currently working on: Enhancing my skills in Full Stack Web Development, with a focus on JavaScript.<br>	•	👥 I’m looking to collaborate on: Exciting team projects and tech challenges.<br>	•	🤝 I’m looking for help with: Expanding my technical expertise and mastering new tools in web development.<br>	•	🌱 I’m currently learning: TypeScript and strengthening my understanding of JavaScript.<br>	•	💬 Ask me about: JavaScript and TypeScript.<br>	•	⚡ Fun fact: I’m a huge soccer fan and a big admirer of Spider-Man!<br>
 
 
-## 🌱 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/frank_va12/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/frankva12/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Frank_va12) 
 
-I'm all about diving into Full Stack Web Development and soaking up knowledge. Team projects and challenges are my jam. 2024's mission: nail JavaScript, level up soft skills, and boost those techie talents!
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Frankva12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Frankva12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Frankva12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 📊 GitHub Stats
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frankva12&show_icons=true&theme=nord&hide=contribs,stars" alt="Frankva12 GitHub Stats">
-</div>
-
-## 🛠️ Tools & Technologies
-
-### Front-End
-
-- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/> HTML5
-- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="20" height="20"/> CSS3
-- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript
-
-### Back-End
-
-- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="20" height="20"/> Node.js
-- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB
-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/> MySQL
-- <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="20" height="20"/> Jest
-
-### Version Control
-
-- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="20" height="20"/> Git
-
-## 💼 Work Experience
-
-### Backend Engineer at KnotApi
-
-As a Backend Engineer at KnotApi, I contribute to developing robust and scalable backend solutions. I collaborate with a dynamic team to create efficient APIs, integrate databases, and ensure the smooth functioning of the application's backend architecture. My role involves continuous learning and problem-solving, contributing to a seamless user experience and the overall success of the projects I'm involved in.
-
-## 🗣️ Languages
-
-- English (Fluent)
-- Spanish (Native)
-
-<!-- Add more technologies and their icons as needed -->
-
-## 🌐 Let's Connect
-
-<div align="center">
-  <a href="mailto:stanleyvasconcelos0@gmail.com"> 
-    <img src="https://img.icons8.com/color/344/gmail-new.png" alt="Gmail" width="50" height="50"/>
-  </a>
-  <a href="https://www.linkedin.com/in/francisco-vasconcelos-8a5a371a9/"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
-</div>
-
-<p align="center">
-  🚀 Let's collaborate, learn, and build the future together! 🌟
-</p>
-
-<p align="center">© 2023 GitHub, Inc.</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

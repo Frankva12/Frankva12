@@ -1,5 +1,11 @@
 # 💫 About Me:
-	•	🎤 I’m currently working on: Enhancing my skills in Full Stack Web Development, with a focus on JavaScript.<br>	•	👥 I’m looking to collaborate on: Exciting team projects and tech challenges.<br>	•	🤝 I’m looking for help with: Expanding my technical expertise and mastering new tools in web development.<br>	•	🌱 I’m currently learning: TypeScript and strengthening my understanding of JavaScript.<br>	•	💬 Ask me about: JavaScript and TypeScript.<br>	•	⚡ Fun fact: I’m a huge soccer fan and a big admirer of Spider-Man!<br>
+
+- 🎤 I’m currently working on: Enhancing my skills in Full Stack Web Development, with a focus on JavaScript.
+- 👥 I’m looking to collaborate on: Exciting team projects and tech challenges.
+- 🤝 I’m looking for help with: Expanding my technical expertise and mastering new tools in web development.
+- 🌱 I’m currently learning: TypeScript and strengthening my understanding of JavaScript.
+- 💬 Ask me about: JavaScript and TypeScript.
+- ⚡ Fun fact: I’m a huge soccer fan and a big admirer of Spider-Man!
 
 
 ## 🌐 Socials:

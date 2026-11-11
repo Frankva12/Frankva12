@@ -12,7 +12,9 @@ I build and own production backend systems for a consumer-lending platform at **
 - **Financial integrity**: idempotent disbursements with payment providers, race-condition fixes, payment reversals, daily-interest accrual.
 - **Performance & security**: PostgreSQL tuning with `EXPLAIN ANALYZE` and targeted indexes (seconds → milliseconds); IDOR and tenant-isolation fixes; PII-redacted structured logging.
 
-## 🚀 Featured project
+## 🚀 Featured projects
+
+**[idempotent-payments](https://github.com/Frankva12/idempotent-payments)** — a payout API that never pays twice, even when clients retry, workers crash, and the provider times out. Idempotency keys claimed atomically, an intent record committed before calling the provider, an explicit `pending_verification` state for unknown outcomes, reconciliation, and signed, deduplicated webhooks. Laravel, PostgreSQL, Pest, PHPStan level 8, CI.
 
 **[llm-receipt-guard](https://github.com/Frankva12/llm-receipt-guard)** — extract payment-receipt data with an LLM and refuse to trust it until deterministic guardrails agree. Structured outputs with Claude, provider failover, grounding checks against the source text, offline and live evals, FastAPI, CI. A public, synthetic-data version of a pattern I run in production.
 

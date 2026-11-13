@@ -18,6 +18,8 @@ I build and own production backend systems for a consumer-lending platform at **
 
 **[llm-receipt-guard](https://github.com/Frankva12/llm-receipt-guard)** — extract payment-receipt data with an LLM and refuse to trust it until deterministic guardrails agree. Structured outputs with Claude, provider failover, grounding checks against the source text, offline and live evals, FastAPI, CI. A public, synthetic-data version of a pattern I run in production.
 
+**[ai-handoff-inbox](https://github.com/Frankva12/ai-handoff-inbox)** — a WhatsApp support inbox where an LLM agent answers first and hands the conversation to a person the moment it should not, without ever talking over them. Signed and deduplicated webhooks, a conversation state machine guarded by row locks, replies blocked unless their numbers come from a tool, provider failover that ends in a human, and evals. NestJS, TypeScript, PostgreSQL, BullMQ, CI.
+
 ## ⚙️ How I work
 
 - Background processing with queues, scheduled jobs, and idempotent commands
@@ -37,6 +39,7 @@ I build and own production backend systems for a consumer-lending platform at **
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
